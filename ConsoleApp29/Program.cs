@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, Mate!");
+﻿Console.WriteLine("Hello, Friend!");
+Console.WriteLine("Howdy, Partner!");
+
